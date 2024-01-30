@@ -3,9 +3,9 @@
 ## 💡Objetivos
 Este projeto tem como objetivo realizar uma análise exploratória de dados de duas bases de dados, abordando as melhores práticas ao lidar com big data, utilizando a API do Pandas no PySpark no ambiente Databricks.
 
-    * Projeto 01 | Dados do Prouni (Programa Universidade Para Todos): Concentrando-se nos cursos de medicina, fornecendo informações para indivíduos interessados em ingressar na área médica no Brasil.
+* Projeto 01 | Dados do Prouni (Programa Universidade Para Todos): Concentrando-se nos cursos de medicina, fornecendo informações para indivíduos interessados em ingressar na área médica no Brasil.
 
-    * Projeto 02 | Dados do FIES 2021 (Fundo de Financiamento Estudantil): Analise de proporção de homens e mulheres presentes no banco de dados de 2021.
+* Projeto 02 | Dados do FIES 2021 (Fundo de Financiamento Estudantil): Analise de proporção de homens e mulheres presentes no banco de dados de 2021.
 
 ## 🖥️Desafios do Projeto
 Utilizar as capacidades do Pandas no PySpark para manipulação eficiente de grandes conjuntos de dados, incluindo leitura, visualização e consultas. Utilizar o Plotly para visualização, processar os dados com o Spark DataFrame e a API do Pandas no Spark, e por último apresentar os resultados por meio de um dashboard.
